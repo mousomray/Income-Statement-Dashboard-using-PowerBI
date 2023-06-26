@@ -26,7 +26,7 @@ Identify the KPIs, design an intuitive and visually appealing dashboard, and hav
 to allow users to explore the data at various levels of granularity.
 
 # Final Insights 
-Net income, Total Revenue, Operating Income, and others are higher than in previous years.
+Net income, Total Revenue, Operating Income, and others are higher in 2022 than in previous years.
 
  
 
