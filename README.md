@@ -18,7 +18,7 @@ The data modelling process was undertaken to create a logical structure for the 
 
 # Data Analysis & Visualization 
 * Created Vertical bar chart to analyze which year was the highest Net Income and Highest Total Revenue.
-* Created KPI for to see Net income, Total revenue, Operating Income's peak value and how much it has increased from Previous year.
+* Created KPI for to see Net income, Total revenue, Operating Income's peak value and how much it has increased from previous year.
 * Created a table chart to compare Net Income, Total Revenue, Operating Income and others of the current year with the previous year.
 
 # Dashboard Creation
